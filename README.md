@@ -1,4 +1,4 @@
-### Hi there 👋
+### Go check out [Blam Creation Suite](https://github.com/Assault-on-the-Control-Room/Blam-Creation-Suite#blam-creation-suite)
 
 <!--
 **theTwist84/theTwist84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
