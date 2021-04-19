@@ -1,4 +1,5 @@
-### Go check out [Blam Creation Suite](https://github.com/Assault-on-the-Control-Room/Blam-Creation-Suite#blam-creation-suite)
+### Go check out [Blam Creation Suite](https://github.com/ChimpsAtSea/Blam-Creation-Suite#blam-creation-suite)
+### Also check out some of my gists [Halo 1 `guerilla.exe` exported tag definitions.](https://gist.github.com/theTwist84/57717e97dbb33968419a483f81e5aa74)
 
 ![theTwist84's github stats](https://github-readme-stats.vercel.app/api/?username=theTwist84&include_all_commits=true&show_icons=true&title_color=d00&icon_color=541717&text_color=9f9f9f&bg_color=151515)
 
