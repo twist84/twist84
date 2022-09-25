@@ -8,6 +8,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theTwist84&layout=default&theme=dark&hide_title=true)
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Twister&theme=dark&hide_title=true)](https://wakatime.com/@Twister)
+
 <!--
 **theTwist84/theTwist84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
