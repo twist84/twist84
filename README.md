@@ -1,26 +1,8 @@
 ### Say hola to the [donkey](https://github.com/theTwist84/ManagedDonkey)
 ### Go check out [Blam Creation Suite](https://github.com/ChimpsAtSea/Blam-Creation-Suite#blam-creation-suite)
-### Also check out some of my gists
- - [Halo 1 `guerilla.exe` exported tag definitions.](https://gist.github.com/theTwist84/57717e97dbb33968419a483f81e5aa74)
- - [Halo 2 `H2Guerilla.exe` exported tag definitions.](https://gist.github.com/theTwist84/ceaadfab630cd14b376fce93cbd662c2)
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Twister&theme=dark&hide_title=true)](https://wakatime.com/@Twister)
 
 ![theTwist84's github stats](https://github-readme-stats.vercel.app/api/?username=theTwist84&include_all_commits=true&show_icons=true&title_color=d00&icon_color=541717&text_color=9f9f9f&bg_color=151515)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theTwist84&layout=default&theme=dark&hide_title=true)
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Twister&theme=dark&hide_title=true)](https://wakatime.com/@Twister)
-
-<!--
-**theTwist84/theTwist84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
