@@ -5,6 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theTwist84&theme=dark&include_all_commits=true&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theTwist84&theme=dark&layout=compact" />
 </a>
-<a href="[https://github.com/theTwist84](https://wakatime.com/@Twister)">
+<a href="https://wakatime.com/@Twister">
   <img height="205em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Twister&theme=dark&hide_title=true" />
 </a>
