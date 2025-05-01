@@ -1,8 +1,8 @@
 ### Take a look at [ManagedDonkey](https://github.com/twist84/ManagedDonkey)
 <!-- ### Go check out [Blam Creation Suite](https://github.com/ChimpsAtSea/Blam-Creation-Suite#blam-creation-suite) -->
 
-<a href="https://wakatime.com/@Twister">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Twister&theme=dark&hide_title=true" />
+<a href="https://wakapi.dev/leaderboard?by=language&key=C%2B%2B">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.dev&username=Twister&theme=dark&hide_title=true" />
 </a>
 
 <a href="https://github.com/twist84">
