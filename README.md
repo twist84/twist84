@@ -2,9 +2,8 @@
 <!-- ### Go check out [Blam Creation Suite](https://github.com/ChimpsAtSea/Blam-Creation-Suite#blam-creation-suite) -->
 
 <a href="https://wakapi.dev/leaderboard?by=language&key=C%2B%2B">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/wakatime?api_domain=wakapi.dev&username=Twister&theme=dark&hide_title=true" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Twister&theme=dark&hide_title=true" />
 </a>
-
 <a href="https://github.com/twist84">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=twist84&theme=dark&include_all_commits=true&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twist84&theme=dark&layout=compact" />
